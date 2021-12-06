@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MCD_OOPInterfaceOrnek
 {
-    public interface IYetenek1
+    interface IYetenek1
     {
         //İnterface'in kendi erişim belirleyicisi neyse içindeki elemanların hepsi aynı erişime sahiptir.
         //Bu nedenle interface içindeki elemanlara erişim belirleyicisi yazılmaz.
